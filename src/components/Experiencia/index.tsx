@@ -1,4 +1,4 @@
-import { SectionBoilerPlate } from '~/types/sectionBoilerPlate';
+import { Experience } from '~/types/experience';
 
 const Experiencia = () => {
   return (
@@ -58,11 +58,11 @@ const Experiencia = () => {
   );
 };
 
-const experiencias: SectionBoilerPlate[] = [
+const experiencias: Experience[] = [
   {
     title: 'Desenvolvedor de Software - Frontend',
     subTitle: 'UsadosBr',
-    date: 'nov de 2021 - o momento',
+    date: 'nov de 2021 - atualmente',
     location: 'Cuiabá, MT',
     description: [
       'Desenvolvimento do Usadosbr.com, sistema de classificados de veículos novos e usados. Foram desenvolvidas funcionalidades para buscas, listagem/filtragem e visualização de mais de 95 mil anúncios de veículos e mais de 3 mil revendas. Foram desenvolvidas funcionalidades para realizar simulações de financiamento e consórcio nos veículos anunciados, também foram desenvolvidas landing pages para o sistema.',
@@ -135,7 +135,7 @@ const experiencias: SectionBoilerPlate[] = [
   {
     title: 'Pesquisador de Iniciação Científica',
     subTitle: 'Laboratório de Ambientes Virtuais Interativos - UFMT',
-    date: 'nov de 2018 - jun de 2021',
+    date: 'ago de 2017 - mar de 2018',
     location: 'Cuiabá, MT',
     description: [
       'Desenvolvimento de jogos educativos, em parceria com Hospital Universitário Júlio Müller, atuando na pesquisa e concepção de jogos com temas como Diabetes e Reciclagem. O desenvolvimento dos ambientes virtuais tridimensionais dos jogos foram feitos utilizando o moto gráfico Unity e a programação feita em C#.',

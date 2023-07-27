@@ -1,4 +1,4 @@
-export interface SectionBoilerPlate {
+export interface Experience {
   title: string;
   subTitle: string;
   date: string;
