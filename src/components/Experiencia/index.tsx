@@ -11,7 +11,6 @@ const Experiencia = () => {
         ({ date, subTitle, location, title, description, skillsList }, index) => (
           <div className="mb-4" key={index}>
             <h4>{title}</h4>
-
             <h5 className="text-sm font-medium">{subTitle}</h5>
 
             <div className="flex gap-x-4 text-xs">
@@ -134,8 +133,8 @@ const experiencias: SectionBoilerPlate[] = [
     ],
   },
   {
-    title: 'Pesquisador de Iniciação Científica - UFMT',
-    subTitle: 'Laboratório de Ambientes Virtuais Interativos - LAVI',
+    title: 'Pesquisador de Iniciação Científica',
+    subTitle: 'Laboratório de Ambientes Virtuais Interativos - UFMT',
     date: 'nov de 2018 - jun de 2021',
     location: 'Cuiabá, MT',
     description: [
