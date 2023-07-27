@@ -6,9 +6,10 @@ const Idiomas = () => {
       </h3>
 
       <div>
-        {idiomas.map(({ language, level }) => (
-          <div>
-            <span className="font-medium">{language}</span>: <span>{level}</span>
+        {idiomas.map(({ language, level }, index) => (
+          <div key={index}>
+            <span className="font-medium">{language}</span>:{' '}
+            <span className="text-sm">{level}</span>
           </div>
         ))}
       </div>
