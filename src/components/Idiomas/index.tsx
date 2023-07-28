@@ -1,9 +1,7 @@
 const Idiomas = () => {
   return (
-    <section className="mt-5">
-      <h3 className="text-xl font-medium border-b-[3px] border-slate-800 mb-2">
-        Idiomas
-      </h3>
+    <section>
+      <h3 className="text-xl font-medium border-b-[3px] border-gray-900 mb-2">Idiomas</h3>
 
       <div>
         {idiomas.map(({ language, level }, index) => (

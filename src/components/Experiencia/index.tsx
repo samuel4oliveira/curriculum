@@ -3,7 +3,7 @@ import { Experience } from '~/types/experience';
 const Experiencia = () => {
   return (
     <section className="mt-5">
-      <h3 className="text-xl font-medium border-b-[3px] border-slate-800 mb-2">
+      <h3 className="text-xl font-medium border-b-[3px] border-gray-900 mb-2">
         Experiência
       </h3>
 
@@ -70,6 +70,7 @@ const experiencias: Experience[] = [
       'Desenvolvimento do Tudo em 1, sistema que centraliza todos os produtos do Grupo UsadosBr em um só lugar. Foram desenvolvidas diversas seções possibilitando o usuário a utilizar todos os serviços do grupo UsadosBr e podendo obter suporte sobre os mesmos.',
       'Desenvolvimento do Moto.com.br, líder no segmento de classificados de moto. Foram desenvolvidas funcionalidades para listagem/filtragem e visualização de mais de 18 mil motos e mais de 500 revendas. Foram desenvolvidas funcionalidades para realizar simulações de financiamento e consórcio nos veículos anunciados, também foram desenvolvidas landing pages para o sistema.',
       'Desenvolvimento de novas funcionalidades e manutenção no sistema de gerenciamento de contas dos usuários do grupo UsadosBr.',
+      'Desenvolvimento de testes unitários para os componentes utilizando Vitest e Jest.',
     ],
     skillsList: [
       'TypeScript',

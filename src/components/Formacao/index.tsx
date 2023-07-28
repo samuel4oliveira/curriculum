@@ -1,11 +1,11 @@
 const Formacao = () => {
   return (
-    <section className="mt-5">
-      <h3 className="text-xl font-medium border-b-[3px] border-slate-800 mb-2">
+    <section>
+      <h3 className="text-xl font-medium border-b-[3px] border-gray-900 mb-2">
         Formação Acadêmica
       </h3>
 
-      <div className="mb-4">
+      <div>
         <h4>UFMT - Universidade Federal de Mato Grosso</h4>
         <h5 className="text-sm font-medium">Bacharel em Ciência da Computação</h5>
 
