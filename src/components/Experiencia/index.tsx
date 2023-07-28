@@ -65,12 +65,12 @@ const experiencias: Experience[] = [
     date: 'nov de 2021 - atualmente',
     location: 'Cuiabá, MT',
     description: [
-      'Desenvolvimento do Usadosbr.com, sistema de classificados de veículos novos e usados. Foram desenvolvidas funcionalidades para buscas, listagem/filtragem e visualização de mais de 95 mil anúncios de veículos e mais de 3 mil revendas. Foram desenvolvidas funcionalidades para realizar simulações de financiamento e consórcio nos veículos anunciados, também foram desenvolvidas landing pages para o sistema.',
-      'Desenvolvimento do CRM - Tudo em 1, o sistema de CRM(Customer Relationship Management) do grupo Usadosbr. Foram desenvolvidas funcionalidades que permitem a criação, visualização, edição e deleção de atendimentos e tarefas. Também foram desenvolvidas funcionalidades para visualização de relatórios, chat com o cliente, etc.',
-      'Desenvolvimento do Tudo em 1, sistema que centraliza todos os produtos do Grupo UsadosBr em um só lugar. Foram desenvolvidas diversas seções possibilitando o usuário a utilizar todos os serviços do grupo UsadosBr e podendo obter suporte sobre os mesmos.',
-      'Desenvolvimento do Moto.com.br, líder no segmento de classificados de moto. Foram desenvolvidas funcionalidades para listagem/filtragem e visualização de mais de 18 mil motos e mais de 500 revendas. Foram desenvolvidas funcionalidades para realizar simulações de financiamento e consórcio nos veículos anunciados, também foram desenvolvidas landing pages para o sistema.',
+      'Desenvolvimento de sistemas de classificados de veículos. Foram desenvolvidas funcionalidades para buscas, listagem/filtragem e visualização de mais de 95 mil anúncios de veículos e mais de 3 mil revendas. Foram desenvolvidas funcionalidades para realizar simulações de financiamento e consórcio nos veículos anunciados.',
+      'Desenvolvimento de um sistema de CRM(Customer Relationship Management). Foram desenvolvidas funcionalidades que permitem a criação, visualização, edição e deleção de atendimentos e tarefas. Também foram desenvolvidas funcionalidades para visualização de relatórios, chat com o cliente, etc.',
+      'Desenvolvimento de uma plataforma conectando os usuários a todos serviços e produtos oferecidos pelo grupo Usadosbr, assim como suporte para os mesmos.',
       'Desenvolvimento de novas funcionalidades e manutenção no sistema de gerenciamento de contas dos usuários do grupo UsadosBr.',
       'Desenvolvimento de testes unitários para os componentes utilizando Vitest e Jest.',
+      'Desenvolvimento de páginas com foco em SEO e performance.',
     ],
     skillsList: [
       'TypeScript',
