@@ -15,12 +15,23 @@ export default function Home() {
         <title>Samuel Oliveira - Currículo</title>
       </Head>
 
-      <main className="w-full max-w-3xl p-8 mx-auto text-text-color">
-        <h1 className="text-3xl font-bold text-section-title">Samuel Oliveira</h1>
-        <h2 className="text-xl">Desenvolvedor de Software - Frontend</h2>
+      <main className="w-full max-w-3xl p-8 mx-auto text-text-color print:pt-0">
+        <div className="md:grid print:grid md:grid-cols-[80%,20%] print:grid-cols-[80%,20%]">
+          <div>
+            <h1 className="text-3xl font-bold text-section-title">Samuel Oliveira</h1>
+            <h2 className="text-xl">Desenvolvedor de Software - Frontend</h2>
 
-        <Contato />
-        <div className="grid gap-x-8 gap-y-4 mt-5 sm:grid-cols-2">
+            <Contato />
+          </div>
+
+          <img
+            className="h-28 w-auto object-cover rounded-full hidden md:block print:block"
+            src="/profile-picture.webp"
+            alt="profile picture"
+          />
+        </div>
+
+        <div className="grid gap-x-8 gap-y-4 mt-5 md:grid-cols-2 print:grid-cols-2">
           <Formacao />
           <Idiomas />
         </div>
