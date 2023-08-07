@@ -1,7 +1,7 @@
 const Formacao = () => {
   return (
     <section>
-      <h3 className="text-xl font-medium border-b-[3px] border-gray-900 mb-2">
+      <h3 className="text-xl text-section-title font-medium border-b-[3px] border-section-border mb-2">
         Formação Acadêmica
       </h3>
 

@@ -3,7 +3,7 @@ import { Experience } from '~/types/experience';
 const Experiencia = () => {
   return (
     <section className="mt-5">
-      <h3 className="text-xl font-medium border-b-[3px] border-gray-900 mb-2">
+      <h3 className="text-xl text-section-title font-medium border-b-[3px] border-section-border mb-2">
         Experiência
       </h3>
 
@@ -44,7 +44,7 @@ const Experiencia = () => {
             </ul>
 
             <p className="text-sm">
-              <span className="font-medium">Competências:</span>
+              <span className="font-medium text-section-title">Competências:</span>
 
               {skillsList.map(
                 (skill, index) =>

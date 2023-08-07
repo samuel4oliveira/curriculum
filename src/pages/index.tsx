@@ -15,12 +15,12 @@ export default function Home() {
         <title>Samuel Oliveira - Currículo</title>
       </Head>
 
-      <main className="w-full max-w-3xl p-8 lg:mx-auto lg:px-0 lg:py-4">
-        <h1 className="text-3xl font-bold">Samuel Oliveira</h1>
+      <main className="w-full max-w-3xl p-8 mx-auto text-text-color">
+        <h1 className="text-3xl font-bold text-section-title">Samuel Oliveira</h1>
         <h2 className="text-xl">Desenvolvedor de Software - Frontend</h2>
 
         <Contato />
-        <div className="grid gap-x-8 gap-y-4 mt-5 md:grid-cols-2">
+        <div className="grid gap-x-8 gap-y-4 mt-5 sm:grid-cols-2">
           <Formacao />
           <Idiomas />
         </div>
