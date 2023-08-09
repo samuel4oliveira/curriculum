@@ -16,7 +16,7 @@ const Experiencia = () => {
             <div className="flex gap-x-4 text-xs">
               <div className="flex items-center gap-1">
                 <img
-                  src="/calendar-outline.svg"
+                  src="./calendar-outline.svg"
                   alt="Ícone de calendário"
                   className="h-3.5 w-3.h-3.5"
                 />
@@ -26,7 +26,7 @@ const Experiencia = () => {
 
               <div className="flex items-center gap-0.5">
                 <img
-                  src="/location-outline.svg"
+                  src="./location-outline.svg"
                   alt="Ícone de calendário"
                   className="h-3.5 w-3.h-3.5"
                 />

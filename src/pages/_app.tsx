@@ -18,7 +18,7 @@ export default function App({ Component, pageProps }: AppProps) {
       `}</style>
 
       <Head>
-        <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+        <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
       </Head>
 
       <Component {...pageProps} />

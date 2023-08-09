@@ -11,7 +11,7 @@ const Formacao = () => {
 
         <div className="flex items-center gap-1 text-xs">
           <img
-            src="/calendar-outline.svg"
+            src="./calendar-outline.svg"
             alt="Ícone de calendário"
             className="h-3.5 w-3.h-3.5"
           />
