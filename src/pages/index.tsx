@@ -26,7 +26,7 @@ export default function Home() {
 
           <img
             className="h-28 w-auto object-cover rounded-full hidden md:block print:block"
-            src="/profile-picture.webp"
+            src="./profile-picture.webp"
             alt="profile picture"
           />
         </div>
