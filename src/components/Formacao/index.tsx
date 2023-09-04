@@ -16,7 +16,7 @@ const Formacao = () => {
             className="h-3.5 w-3.h-3.5"
           />
 
-          <p>2016 - 2020</p>
+          <p>2016/1 - 2020/1</p>
         </div>
       </div>
     </section>
