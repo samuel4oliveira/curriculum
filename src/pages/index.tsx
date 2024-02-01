@@ -12,7 +12,11 @@ export default function Home() {
     <>
       <Head>
         <meta
-          content="Currículo de Samuel Oliveira - Desenvolvedor de Software - Frontend Front-end Curriculum"
+          content={
+            idioma === 'portugues'
+              ? 'Samuel Oliveira - Desenvolvedor de Software - Currículo'
+              : 'Samuel Oliveira - Software Developer - Resume'
+          }
           name="description"
         />
         <title>Samuel Oliveira - {idioma === 'portugues' ? 'Currículo' : 'Resume'}</title>
