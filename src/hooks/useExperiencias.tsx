@@ -22,12 +22,12 @@ const experiencias: Experience[] = [
     date: 'nov de 2021 - atualmente',
     location: 'Cuiabá, MT',
     description: [
-      'Desenvolvimento de sistemas de classificados de veículos, contendo buscas, listagem/filtragem e visualização de mais de 95 mil anúncios de veículos e mais de 3 mil revendas. Também foram desenvolvidas funcionalidades para realizar simulações de financiamento e consórcio nos veículos anunciados.',
-      'Desenvolvimento de um sistema de CRM(Customer Relationship Management), possibilitando a criação, visualização, edição e deleção de atendimentos e tarefas. Também foram desenvolvidas funcionalidades para visualização de relatórios, chat com o cliente, etc.',
-      'Desenvolvimento de uma plataforma conectando os usuários aos serviços e produtos oferecidos pela empresa, assim como suporte para os mesmos.',
-      'Reescrita de um sistema de gerenciamento de contas, melhorando a componentização, tipagem e simplificando o código para futuras manutenções.',
-      'Desenvolvimento de testes unitários para os componentes.',
-      'Desenvolvimento de páginas com foco em SEO e performance.',
+      'Desenvolvimento de sistemas de classificados de veículos para mais de 95 mil anúncios de veículos e mais de 3 mil revendas.',
+      'Desenvolvimento de um sistema para realizar simulações de financiamento e consórcio de veículos em bancos parceiros.',
+      'Reescrita de um sistema de gerenciamento de contas, melhorando a componentização, tipagem e simplificando o código.',
+      'Desenvolvimento de uma plataforma para conexão de usuários a produtos, serviços e suporte.',
+      'Desenvolvimento de landing pages com foco em SEO e performance.',
+      'Desenvolvimento de testes unitários.',
     ],
     skillsList: [
       'TypeScript',
@@ -51,7 +51,7 @@ const experiencias: Experience[] = [
       'Desenvolvimento de novas funcionalidades e manutenção de plataforma proprietária de venda de sementes de soja, incumbida de processar mais de R$ 50 milhões em vendas anuais.',
       'Desenvolvimento de novas funcionalidades e manutenção de plataformas proprietárias de cadastro e divulgação de dados e informações de agronegócio.',
       'Desenvolvimento de novas funcionalidades e manutenção de plataforma proprietária de gerenciamento de sementes de soja.',
-      'Desenvolvimento de protótipos de novas funcionalidades para os sistemas, em conjunto com a participação na concepção e documentação dessas funcionalidades.',
+      'Desenvolvimento de protótipos, em conjunto com a participação na concepção e documentação de funcionalidades.',
     ],
     skillsList: [
       'TypeScript',
@@ -96,7 +96,7 @@ const experiencias: Experience[] = [
     date: 'ago de 2017 - mar de 2018',
     location: 'Cuiabá, MT',
     description: [
-      'Desenvolvimento de jogos educativos, em parceria com Hospital Universitário Júlio Müller, atuando na pesquisa e concepção de jogos com temas como Diabetes e Reciclagem. O desenvolvimento dos ambientes virtuais tridimensionais dos jogos foram feitos utilizando o moto gráfico Unity e a programação feita em C#.',
+      'Desenvolvimento de jogos educativos, em parceria com Hospital Universitário Júlio Müller, atuando na pesquisa e concepção de jogos com temas como diabetes e reciclagem. O desenvolvimento dos ambientes virtuais tridimensionais dos jogos foram feitos utilizando o moto gráfico Unity e a programação feita em C#.',
       'Busca por avaliação de metodologias de tecnologia assistiva, por meio de leitura de artigos e realização de revisões sistemáticas.',
     ],
     skillsList: ['C#', 'Unity3D', 'Linux', 'Git'],
@@ -110,12 +110,12 @@ const experiences: Experience[] = [
     date: 'nov 2021 - present',
     location: 'Mato Grosso, Brazil',
     description: [
-      'Development of a vehicle classifieds system. Functionalities were developed for searching, listing/filtering and viewing more than 95 thousand vehicle advertisements and more than 3 thousand stores. Functionalities were developed to carry out financing and consortium simulations on advertised vehicles.',
-      'Development of a CRM system (Customer Relationship Management). Functionalities were developed allowing the creation, viewing, editing and deletion of leads and tasks. Functionalities for viewing reports, chatting with customers, etc. were also developed.',
-      'Development of a platform connecting users to the services and products offered by the company, as well as support for them.',
-      'Rewriting an account management system, improving componentization, typing and simplifying the code for future maintenance.',
+      'Development of vehicle classifieds systems for more than 95 thousand vehicle advertisements and more than 3 thousand resales.',
+      'Development of a system to carry out financing and vehicle consortium simulations at partner banks.',
+      'Rewriting an account management system, improving componentization, typing and simplifying the code.',
+      'Development of a platform to connect users to products, services and support.',
       'Development of pages focused on SEO and performance.',
-      'Development of unit tests for components.',
+      'Development of unit tests.',
     ],
     skillsList: [
       'TypeScript',
@@ -184,7 +184,7 @@ const experiences: Experience[] = [
     date: 'aug 2017 - mar 2018',
     location: 'Mato Grosso, Brazil',
     description: [
-      "Development of educational games, in partnership with Hospital Universitário Júlio Müller, working on research and design of games with themes such as Diabetes and Recycling. The development of the games' three-dimensional virtual environments was carried out using the Unity graphics engine and programming in C#.",
+      "Development of educational games, in partnership with Hospital Universitário Júlio Müller, working on research and design of games with themes such as diabetes and recycling. The development of the games' three-dimensional virtual environments was carried out using the Unity graphics engine and programming in C#.",
       'Research to evaluate assistive technology methodologies, by reading articles and carrying out systematic reviews.',
     ],
     skillsList: ['C#', 'Unity3D', 'Linux', 'Git'],

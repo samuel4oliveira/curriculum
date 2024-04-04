@@ -1,6 +1,5 @@
 import type { AppProps } from 'next/app';
 import { Roboto } from 'next/font/google';
-import Head from 'next/head';
 import '~/styles/globals.css';
 
 const roboto = Roboto({
@@ -16,10 +15,6 @@ export default function App({ Component, pageProps }: AppProps) {
           font-family: ${roboto.style.fontFamily};
         }
       `}</style>
-
-      <Head>
-        <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
-      </Head>
 
       <Component {...pageProps} />
     </>
