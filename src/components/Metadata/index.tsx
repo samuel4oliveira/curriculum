@@ -8,7 +8,9 @@ const Metadata = () => {
     <Head>
       <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
 
-      <title>Samuel Oliveira - {idioma === 'portugues' ? 'Currículo' : 'Resume'}</title>
+      <title>{`Samuel Oliveira - ${
+        idioma === 'portugues' ? 'Currículo' : 'Resume'
+      }`}</title>
 
       <meta
         content={`Samuel Oliveira - ${
