@@ -27,7 +27,7 @@ const experiencias: Experience[] = [
       'Reescrita de um sistema de gerenciamento de contas, melhorando a componentização, tipagem e simplificando o código.',
       'Desenvolvimento de uma plataforma para conexão de usuários a produtos, serviços e suporte.',
       'Desenvolvimento de landing pages com foco em SEO e performance.',
-      'Desenvolvimento de testes unitários.',
+      'Escrita de testes unitários.',
     ],
     skillsList: [
       'TypeScript',

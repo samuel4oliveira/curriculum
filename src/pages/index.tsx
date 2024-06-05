@@ -3,6 +3,7 @@ import Experiencia from '~/components/Experiencia';
 import Formacao from '~/components/Formacao';
 import Idiomas from '~/components/Idiomas';
 import Metadata from '~/components/Metadata';
+import SobreMim from '~/components/SobreMim';
 import useIdioma from '~/hooks/useIdioma';
 
 export default function Home() {
@@ -27,6 +28,7 @@ export default function Home() {
         />
       </div>
 
+      <SobreMim />
       <div className="grid gap-x-8 gap-y-4 mt-5 md:grid-cols-2 print:grid-cols-2">
         <Formacao />
         <Idiomas />
