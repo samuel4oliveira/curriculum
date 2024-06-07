@@ -70,14 +70,14 @@ const experiencias: Experience[] = [
     ],
   },
   {
-    title: 'Desenvolvedor de Software - Frontend Jr',
+    title: 'Desenvolvedor de Software Jr',
     subTitle: 'Infocorp - Empresa Júnior',
     date: 'nov de 2018 - jun de 2021',
     location: 'Cuiabá, MT',
     description: [
-      'Desenvolvimento de um sistema web de gamificação para a empresa, visando incentivar o engajamento e o alcance de melhores performances a partir do uso de elementos como pontuações, competições, premiações, etc.',
-      'Desenvolvimento de documentações para os projetos da empresa e participação em reuniões com clientes, auxiliando assim no processo de concepção e documentação dos sistemas.',
-      'Desenvolvimento de Protótipos utilizando Figma e Adobe XD para aplicações desenvolvidas na empresa.',
+      'Desenvolvimento de aplicações web com foco em SEO, performance e responsividade.',
+      'Participação na concepção, engenharia e documentação de sistemas.',
+      'Desenvolvimento de protótipos para interfaces de sistemas.',
     ],
     skillsList: [
       'JavaScript',
@@ -163,9 +163,9 @@ const experiences: Experience[] = [
     date: 'nov 2018 - jun 2021',
     location: 'Mato Grosso, Brazil',
     description: [
-      'Development of a web gamification system for the company, aiming to encourage engagement and achieve better performances through the use of elements such as scores, competitions, prizes, etc.',
-      "Development of documentation for the company's projects and participation in meetings with clients, thus assisting in the systems design and documentation process.",
-      'Development of Prototypes using Figma and Adobe XD for applications developed in the company.',
+      'Development of web applications with a focus on SEO, performance and responsiveness.',
+      'Participation in the design, engineering and documentation of systems.',
+      'Development of prototypes for system interfaces.',
     ],
     skillsList: [
       'JavaScript',
