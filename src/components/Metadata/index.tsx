@@ -33,7 +33,9 @@ const Metadata = () => {
 
       <meta
         property="og:description"
-        content="O melhor lugar de Cuiabá para comprar bombons, ovos de páscoa, barras de chocolate e outros doces."
+        content={`Samuel Oliveira - ${
+          idioma === 'portugues' ? 'Desenvolvedor de Software' : 'Software Developer'
+        }`}
       />
 
       <meta property="og:image:url" content="./favicon.svg" />
