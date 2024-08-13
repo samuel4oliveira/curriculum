@@ -26,8 +26,8 @@ const experiencias: Experience[] = [
       'Desenvolvimento de um sistema para realizar simulações de financiamento e consórcio de veículos em bancos parceiros.',
       'Reescrita de um sistema de gerenciamento de contas, melhorando a componentização, tipagem e simplificando o código.',
       'Desenvolvimento de uma plataforma para conexão de usuários a produtos, serviços e suporte.',
+      'Escrita de testes unitários e E2E para os componentes e fluxos dos sistemas.',
       'Desenvolvimento de landing pages com foco em SEO e performance.',
-      'Escrita de testes unitários.',
     ],
     skillsList: [
       'TypeScript',
@@ -114,8 +114,8 @@ const experiences: Experience[] = [
       'Development of a system to carry out financing and vehicle consortium simulations at partner banks.',
       'Rewriting an account management system, improving componentization, typing and simplifying the code.',
       'Development of a platform to connect users to products, services and support.',
+      'Writing unit and E2E tests for system components and flows.',
       'Development of pages focused on SEO and performance.',
-      'Development of unit tests.',
     ],
     skillsList: [
       'TypeScript',
