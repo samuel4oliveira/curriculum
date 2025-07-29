@@ -177,10 +177,10 @@ const experiences: Experience[] = [
     ],
   },
   {
-    title: 'Desenvolvedor de Software - Fullstack',
+    title: 'Software Developer - Fullstack',
     subTitle: 'Beautiful food - Freelance',
-    date: 'mar de 2025 - may de 2025',
-    location: 'Cuiabá, MT',
+    date: 'mar 2025 - may 2025',
+    location: 'Mato Grosso, Brazil',
     description: [
       'Development of UI, API and Database for a customer subscription management system.',
       'Importing data from .CSV files into the new system database.',
@@ -199,7 +199,7 @@ const experiences: Experience[] = [
     ],
   },
   {
-    title: 'Desenvolvedor de Software - Fullstack',
+    title: 'Software Developer - Fullstack',
     subTitle: 'Vilma Confeitaria e Cafeteria - Freelance',
     date: 'jul 2024 - nov 2024',
     location: 'Mato Grosso, Brazil',
