@@ -11,9 +11,9 @@ const useSobreMim = () => {
 };
 
 const sobreMim =
-  "Sou um desenvolvedor de software com uma base sólida em desenvolvimento frontend usando React, TypeScript, Vue e Javascript. Gosto de criar sistemas fáceis de usar, performáticos e responsivos. Estou me aprofundando em desenvolvimento backend com .NET, C#, bancos de dados SQL e ORM's como Dapper e Entity Framework.";
+  'Sou um desenvolvedor fullstack, focado em desenvolvimento Frontend e Backend. Meus conhecimentos abrangem Typescript, Javascript e React para a construção de interfaces leves e bonitas. No lado do servidor, desenvolvo aplicações eficientes e seguras com C# e ASP.NET, integrando-as a bancos de dados SQL como PostgreSQL e MS SQL Server. Gosto de entregar software de alta qualidade, buscando otimizar e seguir as melhores práticas de desenvolvimento.';
 
 const aboutMe =
-  "I'm a software developer with a solid foundation in frontend development using React, TypeScript, Vue and Javascript. I like creating easy-to-use, performant and responsive systems. I'm delving deeper into backend development with .NET, C#, SQL databases and ORM's like Dapper and Entity Framework.";
+  "I'm a full-stack developer proficient in both frontend and backend technologies. My expertise includes Typescript, Javascript, and React for building lightweight and visually appealing user interfaces. On the server side, I develop efficient and secure applications with C# and ASP.NET, integrating them with SQL databases like PostgreSQL and MS SQL Server. I'm dedicated to delivering high-quality software, always aiming for optimization and following the best development practices.";
 
 export default useSobreMim;

@@ -15,7 +15,9 @@ export default function Home() {
         <div>
           <h1 className="text-3xl font-bold text-section-title">Samuel Oliveira</h1>
           <h2 className="text-xl">
-            {idioma === 'portugues' ? 'Desenvolvedor de Software' : 'Software Developer'}
+            {idioma === 'portugues'
+              ? 'Desenvolvedor de Software - Fullstack'
+              : 'Software Developer - Fullstack'}
           </h2>
 
           <Contato />

@@ -13,7 +13,7 @@ const Experiencia = () => {
 
       {experiencias.map(
         ({ date, subTitle, location, title, description, skillsList }, index) => (
-          <div className="mb-4" key={index}>
+          <div className="mb-6" key={index}>
             <h4>{title}</h4>
             <h5 className="text-sm font-medium">{subTitle}</h5>
 
