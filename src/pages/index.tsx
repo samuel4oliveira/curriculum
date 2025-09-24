@@ -24,8 +24,8 @@ export default function Home() {
         </div>
 
         <img
-          className="h-28 aspect-square object-cover rounded-full hidden md:block print:block"
-          src="./profile-picture.jpg"
+          className="h-28 aspect-square object-cover rounded-full hidden md:block print:block [image-rendering:auto] [backface-visibility:hidden] [transform:translateZ(0)]"
+          src="./profile-picture.jpeg"
           alt="profile picture"
         />
       </div>
